@@ -19,12 +19,13 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-* [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity for hackers | 07/06/2018
+☀️
 
 ## Previous Talks and Workshops
 
+* [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity for hackers | 07/06/2018 | [slides](http://bit.ly/automation-hacker)
 * [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
-* [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017
+* [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
 * Efficom (Lille, France) | Workshop Chatbot | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
 * [FE Web](https://www.feweb.be/) (Brussels, Belgium) | Debug your design _like a boss_ | March 2017 | [slides](http://courses.davidl.fr/presentations/devtools/)
 * Efficom (Lille, France) | Workshop leadmachine | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
@@ -37,9 +38,9 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Current Active Topics
 
-### Productivity for hackers 🆕
+### Productivity and automation for hackers 🆕
 
-* [ ] TODO
+Did you know that —on average— adults can focus 20 min maximum on a task? Especially when you are a developer, you need to "get on the zone" and avoid switching context at all costs. In this talk I am sharing all my productivity hacks to automate my life.
 
 ### Chatbot Workshop 🆕
 
@@ -78,7 +79,8 @@ David Leuliette is a front-end and mobile developer based in London. He has over
 
 ### Testimonials
 
-<!-- "Sia was my instructor at Tech Talent South. Thanks to her I've been able to move forward in my career as a Software Developer. Her knowledge and endless patience for our questions created a foundation that I've been building on ever since. She is a fantastic teacher." *-- Ryan Hageman, independent software developer* -->
+David is one of the best teachers I ever had. Really inspiring, compassionate and have a lots of topics to share. I first met him as a teacher for a growth hacking class. I was wowed by the content and the dynamic of his class. Now He becomes a good mentor who I learn from. David is a high achiever, a weirdo (Hahaha c'est vrai) always challenging himself, and helping others to get out their comfort zone.
+– Hafsa Danguir Engineer manager
 
 ## Social Media and Other Links
 
