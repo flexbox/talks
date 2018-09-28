@@ -23,7 +23,8 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Previous Talks and Workshops
 
-* [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity for hackers | 07/06/2018 | [slides](http://bit.ly/automation-hacker)
+* [Freeformers](https://freeformers.com/) (London, UK) | Automation H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
+* [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity and automation for H4CK3RS | 07/06/2018 | [slides](http://bit.ly/automation-hacker)
 * [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
 * [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
 * Efficom (Lille, France) | Workshop Chatbot | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
