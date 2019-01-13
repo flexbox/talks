@@ -19,10 +19,11 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-* [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
+* [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
 
 ## Previous Talks and Workshops
 
+* [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
 * [Freeformers](https://freeformers.com/) (London, UK) | Automation for H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
 * [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity and automation for H4CK3RS | 07/06/2018 | [slides](http://bit.ly/automation-hacker) [video](https://www.youtube.com/watch?v=7_CAqtqEaeo)
 * [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
