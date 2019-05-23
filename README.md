@@ -23,6 +23,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Previous Talks and Workshops
 
+* [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
 * [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactjsacademy React Native Workshop | 11/04/2019
 * [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
 * [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
