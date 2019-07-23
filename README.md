@@ -11,48 +11,52 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Contents
 
-* [Upcoming Talks and Workshops](#upcoming-talks-and-workshops)
-* [Previous Talks and Workshops](#previous-talks-and-workshops)
-* [Current Active Topics](#current-active-topics)
-* [Bio and Testimonials](#bio-and-testimonials)
-* [Social Media and Other Links](#social-media-and-other-links)
+- [Upcoming Talks and Workshops](#upcoming-talks-and-workshops)
+- [Previous Talks and Workshops](#previous-talks-and-workshops)
+- [Current Active Topics](#current-active-topics)
+- [Bio and Testimonials](#bio-and-testimonials)
+- [Social Media and Other Links](#social-media-and-other-links)
 
 ## Upcoming Talks and Workshops
 
-☀️
+- [React Graph QL Academy](https://reactgraphql.academy/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019
 
 ## Previous Talks and Workshops
 
-* [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react/)
-* [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
-* [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactjsacademy React Native Workshop | 11/04/2019
-* [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
-* [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
-* [Freeformers](https://freeformers.com/) (London, UK) | Automation for H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
-* [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity and automation for H4CK3RS | 07/06/2018 | [slides](http://bit.ly/automation-hacker) [video](https://www.youtube.com/watch?v=7_CAqtqEaeo)
-* [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
-* [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
-* Efficom (Lille, France) | Workshop Chatbot | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
-* [FE Web](https://www.feweb.be/) (Brussels, Belgium) | Debug your design _like a boss_ | March 2017 | [slides](http://courses.davidl.fr/presentations/devtools/)
-* Efficom (Lille, France) | Workshop leadmachine | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
-* [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pray for bower _or_ state of art of package manager in JavaScript | February 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
-* [Le Wagon](http://lewagon.com/) (Brussels, Belgium) | Ruby on Rails 9-week bootcamp front-end teacher | 2016-2017
-* [Agile Tour](http://2017.agiletour-lille.org/) (Lille, France) | How to hack your company & succeed your Slack onboarding | October 2016
-* [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | Rails mentor | 2015
-* [RubycampBE](http://rubycamp.rubybelgium.be/) (Belgium) | Craft everything with Middleman | 2015 | [slides](http://courses.davidl.fr/presentations/middleman/)
-* [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pokémon breakpoint : Responsive design, CSS & JavaScript | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
+- [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react/)
+- [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
+- [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactjsacademy React Native Workshop | 11/04/2019
+- [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
+- [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
+- [Freeformers](https://freeformers.com/) (London, UK) | Automation for H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
+- [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity and automation for H4CK3RS | 07/06/2018 | [slides](http://bit.ly/automation-hacker) [video](https://www.youtube.com/watch?v=7_CAqtqEaeo)
+- [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
+- [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
+- Efficom (Lille, France) | Workshop Chatbot | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
+- [FE Web](https://www.feweb.be/) (Brussels, Belgium) | Debug your design _like a boss_ | March 2017 | [slides](http://courses.davidl.fr/presentations/devtools/)
+- Efficom (Lille, France) | Workshop leadmachine | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
+- [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pray for bower _or_ state of art of package manager in JavaScript | February 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
+- [Le Wagon](http://lewagon.com/) (Brussels, Belgium) | Ruby on Rails 9-week bootcamp front-end teacher | 2016-2017
+- [Agile Tour](http://2017.agiletour-lille.org/) (Lille, France) | How to hack your company & succeed your Slack onboarding | October 2016
+- [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | Rails mentor | 2015
+- [RubycampBE](http://rubycamp.rubybelgium.be/) (Belgium) | Craft everything with Middleman | 2015 | [slides](http://courses.davidl.fr/presentations/middleman/)
+- [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pokémon breakpoint : Responsive design, CSS & JavaScript | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
 
 ## Current Active Topics
+
+### Static websites in the era of Headless CMS 🆕
+
+Static sites rebuild on every change, but that’s actually far less often than a classic server-hosted web application (which rebuilds on every request). With a `JAMstack` you can use JavaScript, APIs, and Markup to deploy fast and secure website. Come learn how to glue together `GitHub`, `Gatsby`, `Contentful` and `Netlify`.
 
 ### Productivity and automation for hackers 🆕
 
 Did you know that —on average— adults can focus 20 min maximum on a task? Especially when you are a developer, you need to "get on the zone" and avoid switching context at all costs. In this talk I am sharing all my productivity hacks to automate my life.
 
-### Chatbot Workshop 🆕
+### Chatbot Workshop
 
 One of the major changes in social paradigm is how people are consuming content. Now, people are spending more time on chat applications rather than social media! So what are conversationnal applications? How is it implemented? Where should you put them? Why did Facebook invest in messenger and whatsapp? Come learn how chatbot can help increassing your convertion rate, improve user experience, and more.
 
-### Leadmachine Worshop 🆕
+### Leadmachine Worshop
 
 Nowadays all the web is about `API`'s. Do you think buidling a static website is a simple thing?
 In the world of the `JAMSTACK`, it's not so simple but you will discover the advantages of using powerfull tools like `React` and `Gatsby` for the website, `Netifly` for Continius Integration. In the meantime, we are going to explore the possibilities offered by [Typeform](http://referral.typeform.com/mzclYBD) and `Zapier`.
@@ -90,9 +94,9 @@ David is one of the best teachers I ever had. Really inspiring, compassionate an
 
 ## Social Media and Other Links
 
-* [Personal website](https://davidl.fr)
-* [Twitter](https://twitter.com/_flexbox)
-* [Medium](https://medium.com/@flexbox)
-* [GitHub](https://github.com/flexbox)
-* [StackOverflow](https://stackoverflow.com/users/4589729/david-leuliette?tab=profile)
-* [LinkedIn](https://www.linkedin.com/in/david-leuliette-456701121)
+- [Personal website](https://davidl.fr)
+- [Twitter](https://twitter.com/flexbox_)
+- [Medium](https://medium.com/@flexbox)
+- [GitHub](https://github.com/flexbox)
+- [StackOverflow](https://stackoverflow.com/users/4589729/david-leuliette?tab=profile)
+- [LinkedIn](https://www.linkedin.com/in/david-leuliette-456701121)
