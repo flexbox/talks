@@ -1,7 +1,7 @@
 # David Talks
 
 Hi 👋,
-I'm a front-end developer based in London.
+I'm a Developer and trainer specializing in cross-platform application development.
 As a developer, I love building things that help make user's happy.
 As a person, I also love making developer's lives easier through coaching, mentoring, and automation.
 You can find more information about me and the topics I speak about here.
