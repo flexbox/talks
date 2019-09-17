@@ -6,8 +6,8 @@ As a developer, I love building things that help make user's happy.
 As a person, I also love making developer's lives easier through coaching, mentoring, and automation.
 You can find more information about me and the topics I speak about here.
 
-I currently talk about `Ruby` and `JavaScript` with a focus on Front-end topics.
-Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/_flexbox)!
+I currently talk about `JavaScript` and `React Native` with a focus on Front-end topics.
+Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/flexbox_)!
 
 ## Contents
 
@@ -19,11 +19,12 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-- [React Graph QL Academy](https://reactgraphql.academy/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019
+- [React Beer](https://reactbeerlille.org/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019  | [slides](http://bit.ly/david-gatsby)
 
 ## Previous Talks and Workshops
 
-- [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react/)
+- [React Graph QL Academy](https://reactgraphql.academy/community/meetups/5d398273b809c0500a3f3434/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019 | [slides](http://bit.ly/david-gatsby)
+- [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react)
 - [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
 - [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactjsacademy React Native Workshop | 11/04/2019
 - [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
