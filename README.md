@@ -46,6 +46,10 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Current Active Topics
 
+### React Native and React Native Web 🆕
+
+Publish cross-platform applications is an old problem like the web. In 2019, Twitter has deployed its new version with a single codebase! What are their secrets ? Investigation…
+
 ### Static websites in the era of Headless CMS 🆕
 
 Static sites rebuild on every change, but that’s actually far less often than a classic server-hosted web application (which rebuilds on every request). With a `JAMstack` you can use JavaScript, APIs, and Markup to deploy fast and secure website. Come learn how to glue together `GitHub`, `Gatsby`, `Contentful` and `Netlify`.
