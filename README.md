@@ -2,7 +2,7 @@
 
 Hi 👋,
 I'm a Developer and trainer specializing in cross-platform application development.
-As a developer, I love building things that help make user's happy.
+As a freelance, __my mission is to build memorable products that makes user's happy__.
 As a person, I also love making developer's lives easier through coaching, mentoring, and automation.
 You can find more information about me and the topics I speak about here.
 
@@ -87,11 +87,11 @@ Do you need help with a specific topic? Would you prefer a longer workshop inste
 
 ### Bio - Long
 
-David Leuliette is a front-end and mobile developer based in London. He has over 10 years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. He taught web developement to student in university, web project management to adults on differents workshops and front-end design at le wagon — the best 9 week Ruby On Rails bootcamp in the world. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
+David Leuliette is a freelance front-end and mobile developer. He has over 10 years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. He taught web developement to student in university, web project management to adults on differents workshops and front-end design at le wagon — the best 9 week Ruby On Rails bootcamp in the world. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
 
 ### Bio - Short
 
-David Leuliette is a front-end and mobile developer based in London. He has over 10 years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
+David Leuliette is a freelance front-end and mobile developer. He has over 10 years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
 
 ### Testimonials
 
