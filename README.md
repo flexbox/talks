@@ -2,7 +2,7 @@
 
 Hi 👋,
 I'm a Developer and trainer specializing in cross-platform application development.
-As a freelance, __my mission is to build memorable products that makes user's happy__.
+As a freelance, **my mission is to build memorable products that makes user's happy**.
 As a person, I also love making developer's lives easier through coaching, mentoring, and automation.
 You can find more information about me and the topics I speak about here.
 
@@ -23,11 +23,11 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Previous Talks and Workshops
 
-- [React Beer](https://reactbeerlille.org/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019  | [slides](http://bit.ly/react-native-web)
+- [React Beer](https://reactbeerlille.org/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
 - [React Graph QL Academy](https://reactgraphql.academy/community/meetups/5d398273b809c0500a3f3434/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019 | [slides](http://bit.ly/david-gatsby)
 - [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react)
 - [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
-- [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactjsacademy React Native Workshop | 11/04/2019
+- [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactgraphqlacademy React Native Workshop | 11/04/2019
 - [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
 - [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
 - [Freeformers](https://freeformers.com/) (London, UK) | Automation for H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
