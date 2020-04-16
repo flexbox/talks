@@ -19,7 +19,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-☀️
+- [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020
 
 ## Previous Talks and Workshops
 
@@ -45,6 +45,15 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 - [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pokémon breakpoint : Responsive design, CSS & JavaScript | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
 
 ## Current Active Topics
+
+### React Native and React Native Web 🆕
+
+One of my biggest concerns as a freelance is finding new clients. I am a solo entrepreneur. If I am not looking for new job opportunities every week, I am in a risky position.
+One day —for a random reason— I can quickly lose all my clients. Literally that's what happened 2 weeks ago, with something that no one could have predicted: a global world pandemic.
+__I lost 66.66% of my clients in one day.__
+
+How can I work on my client's projects and sell my services in the meantime? __Let me introduce you to all my automation protips.__
+
 
 ### React Native and React Native Web 🆕
 
@@ -87,11 +96,11 @@ Do you need help with a specific topic? Would you prefer a longer workshop inste
 
 ### Bio - Long
 
-David Leuliette is a freelance front-end and mobile developer. He has over 10 years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. He taught web developement to student in university, web project management to adults on differents workshops and front-end design at le wagon — the best 9 week Ruby On Rails bootcamp in the world. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
+David Leuliette is a freelance front-end and mobile developer. He has over 10+ years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. He taught web developement to student in university, web project management to adults on differents workshops and front-end design at le wagon — the best 9 week Ruby On Rails bootcamp in the world. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
 
 ### Bio - Short
 
-David Leuliette is a freelance front-end and mobile developer. He has over 10 years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
+David Leuliette is a freelance front-end and mobile developer. He has over 10+ years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
 
 ### Testimonials
 
