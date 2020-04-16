@@ -46,7 +46,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Current Active Topics
 
-### React Native and React Native Web 🆕
+### Your freelancing on autopilot with airtable 🆕
 
 One of my biggest concerns as a freelance is finding new clients. I am a solo entrepreneur. If I am not looking for new job opportunities every week, I am in a risky position.
 One day —for a random reason— I can quickly lose all my clients. Literally that's what happened 2 weeks ago, with something that no one could have predicted: a global world pandemic.
