@@ -19,10 +19,11 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
+☀️
 
 ## Previous Talks and Workshops
 
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020
+- [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
 - [React Beer](https://reactbeerlille.org/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
 - [React Graph QL Academy](https://reactgraphql.academy/community/meetups/5d398273b809c0500a3f3434/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019 | [slides](http://bit.ly/david-gatsby)
@@ -54,7 +55,6 @@ One day —for a random reason— I can quickly lose all my clients. Literally t
 __I lost 66.66% of my clients in one day.__
 
 How can I work on my client's projects and sell my services in the meantime? __Let me introduce you to all my automation protips.__
-
 
 ### React Native and React Native Web 🆕
 
