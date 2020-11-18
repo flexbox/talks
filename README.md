@@ -19,7 +19,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-☀️
+- [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
 
 ## Previous Talks and Workshops
 
