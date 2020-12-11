@@ -19,10 +19,11 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
+☃
 
 ## Previous Talks and Workshops
 
+- [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
 - [React Beer](https://reactbeerlille.org/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
