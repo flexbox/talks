@@ -36,6 +36,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 - [Freeformers](https://freeformers.com/) (London, UK) | Automation for H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
 - [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity and automation for H4CK3RS | 07/06/2018 | [slides](http://bit.ly/automation-hacker) [video](https://www.youtube.com/watch?v=7_CAqtqEaeo)
 - [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
+- [Comet](https://www.comet.co/) (Paris, France) | How a growth hacking mindset and automation tools can benefit your company culture | September 2017 | [slides](https://www.slideshare.net/yoann_comet/how-a-growth-hacking-mindset-and-automation-tools-can-benefit-your-company-culture)
 - [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
 - Efficom (Lille, France) | Workshop Chatbot | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
 - [FE Web](https://www.feweb.be/) (Brussels, Belgium) | Debug your design _like a boss_ | March 2017 | [slides](http://courses.davidl.fr/presentations/devtools/)
