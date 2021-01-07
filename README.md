@@ -19,7 +19,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-☃
+- [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/)
 
 ## Previous Talks and Workshops
 
@@ -49,6 +49,13 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 - [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pokémon breakpoint : Responsive design, CSS & JavaScript | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
 
 ## Current Active Topics
+
+### Create your first book as an indie hacker 🆕
+
+Last year David published his first book.
+You may ask yourself: what kind of tools should I use to write a book ?
+You can start with a simple document on a text editor... but you will miss the most important part: distribution.
+During this talk you will learn how to create, automate and distribute your first book as a indie hacker.
 
 ### Your freelancing on autopilot with airtable 🆕
 
