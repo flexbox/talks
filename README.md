@@ -1,9 +1,10 @@
 # David’s Talks
 
-Hi 👋,
-I'm a Developer and trainer specializing in cross-platform application development.
-As a freelance, **my mission is to build memorable products that makes user's happy**.
-As a person, I also love making developer's lives easier through coaching, mentoring, and automation.
+Hi 👋, I'm a french freelance engineer working remotely.
+
+As a freelance, my mission is to **build memorable products that make users happy**.
+
+As a person, I change the mindset of peoples through **mentoring**, **minimalist design**, and **automation**.
 
 You can find more information about me and the topics I speak about here.
 
