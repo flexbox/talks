@@ -1,4 +1,4 @@
-# David Talks
+# David’s Talks
 
 Hi 👋,
 I'm a Developer and trainer specializing in cross-platform application development.
@@ -19,10 +19,11 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/)
+⛄
 
 ## Previous Talks and Workshops
 
+- [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
@@ -57,7 +58,7 @@ You may ask yourself: what kind of tools should I use to write a book ?
 You can start with a simple document on a text editor... but you will miss the most important part: distribution.
 During this talk you will learn how to create, automate and distribute your first book as a indie hacker.
 
-### Your freelancing on autopilot with airtable 🆕
+### Your freelancing on autopilot with Airtable 🆕
 
 One of my biggest concerns as a freelance is finding new clients. I am a solo entrepreneur. If I am not looking for new job opportunities every week, I am in a risky position.
 One day —for a random reason— I can quickly lose all my clients. Literally that's what happened 2 weeks ago, with something that no one could have predicted: a global world pandemic.
@@ -69,13 +70,15 @@ How can I work on my client's projects and sell my services in the meantime? __L
 
 Publish cross-platform applications is an old problem like the web. In 2019, Twitter has deployed its new version with a single codebase! What are their secrets ? Investigation…
 
-### Static websites in the era of Headless CMS 🆕
+### Static websites in the era of Headless CMS
 
 Static sites rebuild on every change, but that’s actually far less often than a classic server-hosted web application (which rebuilds on every request). With a `JAMstack` you can use JavaScript, APIs, and Markup to deploy fast and secure website. Come learn how to glue together `GitHub`, `Gatsby`, `Contentful` and `Netlify`.
 
-### Productivity and automation for hackers 🆕
+### Productivity and automation for hackers
 
 Did you know that —on average— adults can focus 20 min maximum on a task? Especially when you are a developer, you need to "get on the zone" and avoid switching context at all costs. In this talk I am sharing all my productivity hacks to automate my life.
+
+## Archived Topics
 
 ### Chatbot Workshop
 
@@ -111,11 +114,6 @@ David Leuliette is a freelance front-end and mobile developer. He has over 10+ y
 ### Bio - Short
 
 David Leuliette is a freelance front-end and mobile developer. He has over 10+ years of experience in technology, project management, design and growth hacking from small startups to large companies across multiple industries, especially high-tech and education. David was recognized by humancoders, in the 100 most influential and active designer in tech and entrepreneurship in France.
-
-### Testimonials
-
-David is one of the best teachers I ever had. Really inspiring, compassionate and have a lots of topics to share. I first met him as a teacher for a growth hacking class. I was wowed by the content and the dynamic of his class. Now He becomes a good mentor who I learn from. David is a high achiever, a weirdo (Hahaha c'est vrai) always challenging himself, and helping others to get out their comfort zone.
-– Hafsa Danguir Engineer manager
 
 ## Social Media and Other Links
 
