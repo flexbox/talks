@@ -4,9 +4,10 @@ Hi 👋,
 I'm a Developer and trainer specializing in cross-platform application development.
 As a freelance, **my mission is to build memorable products that makes user's happy**.
 As a person, I also love making developer's lives easier through coaching, mentoring, and automation.
+
 You can find more information about me and the topics I speak about here.
 
-I currently talk about `JavaScript` and `React Native` with a focus on Front-end topics.
+I currently talk about `Automation`, `JavaScript` and `React Native` with a focus on Front-end topics.
 Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/flexbox_)!
 
 ## Contents
