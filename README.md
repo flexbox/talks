@@ -21,15 +21,17 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-⛄
+- [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From zero to hero | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 
 ## Previous Talks and Workshops
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQiJS8ksU_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
-- [React Beer](https://reactbeerlille.org/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
+- [Front(end | &) Beers](https://www.meetup.com/frontendbeers/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
 - [React Graph QL Academy](https://reactgraphql.academy/community/meetups/5d398273b809c0500a3f3434/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019 | [slides](http://bit.ly/david-gatsby)
 - [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react)
 - [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
@@ -52,6 +54,12 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 - [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pokémon breakpoint : Responsive design, CSS & JavaScript | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
 
 ## Current Active Topics
+
+### Design system styling in React Native —From zero to hero
+
+With React Native, you style your application using JavaScript.
+The more you add developers and features, the more design consistency problems and pain points will appear.
+Let's explore together how to create a first-class developer experience when managing styles and themes!
 
 ### Create your first book as an indie hacker 🆕
 
