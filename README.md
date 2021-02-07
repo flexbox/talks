@@ -25,7 +25,9 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Previous Talks and Workshops
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XQiJS8ksU_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=XQiJS8ksU_Y&list=PLmewDYeBL3XL6yN4yVqOYqWtQD0QFU9Y8&index=1" target="_blank">
+Picture
+</a>
 
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
