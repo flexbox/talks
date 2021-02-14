@@ -26,7 +26,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 ## Previous Talks and Workshops
 
 <a href="https://www.youtube.com/watch?v=XQiJS8ksU_Y&list=PLmewDYeBL3XL6yN4yVqOYqWtQD0QFU9Y8&index=1" target="_blank">
-<img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%">
+<img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
