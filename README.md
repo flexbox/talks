@@ -21,7 +21,8 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-- [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From Zero to Hero | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
+- [Human Coders](https://www.meetup.com/react-react-native-bordeaux/) (Paris, France) | React Native Workshop | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From Zero to Hero | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 
 ## Previous Talks and Workshops
 
@@ -30,7 +31,9 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 </a>
 
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
+- [Human Coders](https://www.meetup.com/react-react-native-bordeaux/) (Paris, France) | React Native Workshop | 07/12/2020 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
+- [React GraphQL Academy](https://reactgraphql.academy/) (Barcelona, Spain) | React Native Workshop | 02/11/2020 | [curriculum](https://reactgraphql.academy/react/training/workshops/react-native/)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
 - [Front(end | &) Beers](https://www.meetup.com/frontendbeers/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
