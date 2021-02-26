@@ -1,10 +1,10 @@
-# David’s Talks
+# Speaking appearances
 
 Hi 👋, I'm a french freelance engineer working remotely.
 
 As a freelance, my mission is to **build memorable products that make users happy**.
 
-As a person, I change the mindset of peoples through **mentoring**, **minimalist design**, and **automation**.
+As a person, I change the mindset of peoples through **automation hacks**, **minimalist design**, and **mentoring**.
 
 You can find more information about me and the topics I speak about here.
 
@@ -21,7 +21,6 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-- [Human Coders](https://www.meetup.com/react-react-native-bordeaux/) (Paris, France) | React Native Workshop | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From Zero to Hero | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 
 ## Previous Talks and Workshops
@@ -30,8 +29,9 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | React Native Workshop | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
-- [Human Coders](https://www.meetup.com/react-react-native-bordeaux/) (Paris, France) | React Native Workshop | 07/12/2020 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | React Native Workshop | 07/12/2020 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
 - [React GraphQL Academy](https://reactgraphql.academy/) (Barcelona, Spain) | React Native Workshop | 02/11/2020 | [curriculum](https://reactgraphql.academy/react/training/workshops/react-native/)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
