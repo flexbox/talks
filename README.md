@@ -21,7 +21,6 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-☀️
 
 ## Previous Talks and Workshops
 
@@ -29,6 +28,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | React Native Workshop | 15/03/2021 | [curriculum](https://davidl.fr/workshop)
 - [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From Zero to Hero | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/) [video](https://www.twitch.tv/videos/936719263)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | React Native Workshop | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
