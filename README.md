@@ -22,6 +22,9 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 ## Upcoming Talks and Workshops
 
 
+- [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
+
+
 ## Previous Talks and Workshops
 
 <a href="https://www.youtube.com/watch?v=XQiJS8ksU_Y&list=PLmewDYeBL3XL6yN4yVqOYqWtQD0QFU9Y8&index=1" target="_blank">
@@ -63,9 +66,10 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ### Design system styling in React Native —From zero to hero
 
-With React Native, you style your application using JavaScript.
+With React Native, you style your application using `JavaScript` and `CSS-in-JS`.
+
 The more you add developers and features, the more design consistency problems and pain points will appear.
-Let's explore together how to create a first-class developer experience when managing styles and themes!
+Let's explore together how to create a first-class developer experience when managing styles and themes with `TypeScript` and `restyle`!
 
 ### Create your first book as an indie hacker 🆕
 
