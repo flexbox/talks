@@ -23,7 +23,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 
 - [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
-
+- [comet](https://www.comet.co/) (Remote, world) | Build and automate your passive income as a freelance | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/)
 
 ## Previous Talks and Workshops
 
