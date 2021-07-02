@@ -21,8 +21,6 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-
-- [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 - [comet](https://www.comet.co/) (Remote, world) | Build and automate your passive income as a freelance | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/)
 
 ## Previous Talks and Workshops
@@ -31,6 +29,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 - [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | React Native Workshop | 15/03/2021 | [curriculum](https://davidl.fr/workshop)
 - [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From Zero to Hero | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/) [video](https://youtu.be/gkUABRFKoXs)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | React Native Workshop | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
@@ -64,7 +63,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Current Active Topics
 
-### Design system styling in React Native —From zero to hero
+### Design system styling in React Native —From zero to hero 🆕
 
 With React Native, you style your application using `JavaScript` and `CSS-in-JS`.
 
@@ -86,7 +85,7 @@ __I lost 66.66% of my clients in one day.__
 
 How can I work on my client's projects and sell my services in the meantime? __Let me introduce you to all my automation protips.__
 
-### React Native and React Native Web 🆕
+### React Native and React Native Web
 
 Publish cross-platform applications is an old problem like the web. In 2019, Twitter has deployed its new version with a single codebase! What are their secrets ? Investigation…
 
@@ -137,7 +136,6 @@ David Leuliette is a freelance front-end and mobile developer. He has over 10+ y
 
 ## Social Media and Other Links
 
-- [Personal website](https://davidl.fr)
 - [Twitter](https://twitter.com/flexbox_)
 - [Medium](https://medium.com/@flexbox)
 - [GitHub](https://github.com/flexbox)
