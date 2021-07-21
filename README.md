@@ -1,4 +1,4 @@
-# Speaking appearances
+# Speaking and Workshops
 
 Hi 👋, I'm a french freelance engineer working remotely.
 
