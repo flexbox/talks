@@ -29,6 +29,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Diagrams Technologies](https://www.comet.co/) (Remote, Lille) | Git x Github bootcamp
 - [Comet](https://www.comet.co/) (Remote, world) | Build and automate your passive income as a freelance | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=_9kduD2RnKo)
 - [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 - [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | React Native Workshop | 15/03/2021 | [curriculum](https://davidl.fr/workshop)
