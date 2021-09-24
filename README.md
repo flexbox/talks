@@ -29,6 +29,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Live Office Hours ](https://www.twitch.tv/flexboxLive) (Lille, France) | 24/09/2021 |
 - [Diagrams Technologies](https://diagrams-technologies.com/) (Lille, France) | Git & Github Bootcamp | 02/09/2021 | [curriculum](https://github.com/flexbox/github-bootcamp)
 - [Comet](https://www.comet.co/) (Remote, world) | Build and automate your passive income as a freelance | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=_9kduD2RnKo)
 - [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
