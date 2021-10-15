@@ -4,11 +4,11 @@ Hi 👋, I'm a french freelance engineer working remotely.
 
 As a freelance, my mission is to **build memorable products that make users happy**.
 
-As a person, I change the mindset of peoples through **automation hacks**, **minimalist design**, and **mentoring**.
+As a developer, I change the mindset of peoples through **automation hacks**, **minimalist design**, and **mentoring**. I do that during workshop or bootcamps when I share my knowledge.
 
 You can find more information about me and the topics I speak about here.
 
-I currently talk about `Automation`, `JavaScript` and `React Native` with a focus on Front-end topics.
+I currently talk about `Automation`, `JavaScript` and `React Native` with a focus on front-end topics.
 Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/flexbox_)!
 
 ## Contents
@@ -21,7 +21,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-☀️
+- [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
 
 ## Previous Talks and Workshops
 
@@ -29,40 +29,40 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
-- [Live Office Hours ](https://www.twitch.tv/flexboxLive) (Lille, France) | 24/09/2021 |
-- [Diagrams Technologies](https://diagrams-technologies.com/) (Lille, France) | Git & Github Bootcamp | 02/09/2021 | [curriculum](https://github.com/flexbox/github-bootcamp)
-- [Comet](https://www.comet.co/) (Remote, world) | Build and automate your passive income as a freelance | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=_9kduD2RnKo)
-- [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | Design system in React Native —From Zero to Hero | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
-- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | React Native Workshop | 15/03/2021 | [curriculum](https://davidl.fr/workshop)
-- [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | Design system in React Native —From Zero to Hero | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/) [video](https://youtu.be/gkUABRFKoXs)
-- [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | React Native Workshop | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Publish your first book as a indie hacker | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
-- [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | React Native Workshop | 07/12/2020 | [curriculum](https://www.humancoders.com/formations/react-native)
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Game-changer funneling techniques for freelancers with airtable | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
-- [React GraphQL Academy](https://reactgraphql.academy/) (Barcelona, Spain) | React Native Workshop | 02/11/2020 | [curriculum](https://reactgraphql.academy/react/training/workshops/react-native/)
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Automation for H4CK3RS | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
-- [CodeControl](https://codecontrol.io/) (Remote, world) | Your freelancing on autopilot with airtable | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
-- [Front(end | &) Beers](https://www.meetup.com/frontendbeers/) (Lille, France) | Native? Web? Hm... Both! | 19/09/2019 | [slides](http://bit.ly/react-native-web)
-- [React Graph QL Academy](https://reactgraphql.academy/community/meetups/5d398273b809c0500a3f3434/) (London, UK) | Static websites in the era of Headless CMS | 10/09/2019 | [slides](http://bit.ly/david-gatsby)
-- [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | Styling in React | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react)
-- [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | Automation for H4CK3RS | 23/06/2018 | [slides](http://bit.ly/automation-part1)
-- [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | Coach with @reactgraphqlacademy React Native Workshop | 11/04/2019
-- [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | React Router | 23/01/2019
-- [Rails Girls](https://railsgirls.london/) (London, UK) | Automation for H4CK3RS | 01/12/2018 | [slides](http://bit.ly/automation-part1)
-- [Freeformers](https://freeformers.com/) (London, UK) | Automation for H4CK3RS | 28/09/2018 | [slides](http://bit.ly/automation-part1)
-- [Take Off Conf](http://takeoffconf.com/) (Lille, France) | Productivity and automation for H4CK3RS | 07/06/2018 | [slides](http://bit.ly/automation-hacker) [video](https://www.youtube.com/watch?v=7_CAqtqEaeo)
-- [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | Pray for bower _or_ state of art of package manager in JavaScript | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
-- [Comet](https://www.comet.co/) (Paris, France) | How a growth hacking mindset and automation tools can benefit your company culture | September 2017 | [slides](https://www.slideshare.net/yoann_comet/how-a-growth-hacking-mindset-and-automation-tools-can-benefit-your-company-culture)
-- [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | How to love / hate / use the asset pipeline in Ruby on Rails | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
-- Efficom (Lille, France) | Workshop Chatbot | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
-- [FE Web](https://www.feweb.be/) (Brussels, Belgium) | Debug your design _like a boss_ | March 2017 | [slides](http://courses.davidl.fr/presentations/devtools/)
-- Efficom (Lille, France) | Workshop leadmachine | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
-- [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pray for bower _or_ state of art of package manager in JavaScript | February 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
-- [Le Wagon](http://lewagon.com/) (Brussels, Belgium) | Ruby on Rails 9-week bootcamp front-end teacher | 2016-2017
-- [Agile Tour](http://2017.agiletour-lille.org/) (Lille, France) | How to hack your company & succeed your Slack onboarding | October 2016
-- [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | Rails mentor | 2015
-- [RubycampBE](http://rubycamp.rubybelgium.be/) (Belgium) | Craft everything with Middleman | 2015 | [slides](http://courses.davidl.fr/presentations/middleman/)
-- [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | Pokémon breakpoint : Responsive design, CSS & JavaScript | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
+- [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive) (Remote, World) | __Twitch live show about technology, design and automation__ | 24/09/2021 | [video](https://www.youtube.com/playlist?list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
+- [Diagrams Technologies](https://diagrams-technologies.com/) (Lille, France) | __Git & Github Bootcamp__ | 02/09/2021 | [curriculum](https://github.com/flexbox/github-bootcamp)
+- [Comet](https://www.comet.co/) (Remote, world) | __Build and automate your passive income as a freelance__ | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=_9kduD2RnKo)
+- [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | __Design system in React Native —From Zero to Hero__ | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Workshop__ | 15/03/2021 | [curriculum](https://davidl.fr/workshop)
+- [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | __Design system in React Native —From Zero to Hero__ | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/) [video](https://youtu.be/gkUABRFKoXs)
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | __React Native Workshop__ | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [CodeControl](https://codecontrol.io/) (Remote, world) | __Publish your first book as a indie hacker__ | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | __React Native Workshop__ | 07/12/2020 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [CodeControl](https://codecontrol.io/) (Remote, world) | __Game-changer funneling techniques for freelancers with airtable__ | 26/11/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/) [video](https://www.youtube.com/watch?v=gYwuzag4h98)
+- [React GraphQL Academy](https://reactgraphql.academy/) (Barcelona, Spain) | __React Native Workshop__ | 02/11/2020 | [curriculum](https://reactgraphql.academy/react/training/workshops/react-native/)
+- [CodeControl](https://codecontrol.io/) (Remote, world) | __Automation for H4CK3RS__ | 19/08/2020 | [slides](http://bit.ly/automation-hacker)
+- [CodeControl](https://codecontrol.io/) (Remote, world) | __Your freelancing on autopilot with airtable__ | 29/04/2020 | [slides](https://courses.davidl.fr/presentations/freelance/#/)
+- [Front(end | &) Beers](https://www.meetup.com/frontendbeers/) (Lille, France) | __Native? Web? Hm... Both!__ | 19/09/2019 | [slides](http://bit.ly/react-native-web)
+- [React Graph QL Academy](https://reactgraphql.academy/community/meetups/5d398273b809c0500a3f3434/) (London, UK) | __Static websites in the era of Headless CMS__ | 10/09/2019 | [slides](http://bit.ly/david-gatsby)
+- [ChtiJS Workshop](http://chtijs.francejs.org/) (Lille, France) | __Styling in React__ | 17/06/2019 | [slides](https://reactgraphql.academy/react/styling-in-react)
+- [Davidson Consulting](https://www.davidson.fr/) (Lille, France) | __Automation for H4CK3RS__ | 23/06/2018 | [slides](http://bit.ly/automation-part1)
+- [React Amsterdam](https://react.amsterdam/) (Amsterdam, Netherlands) | __Coach with @reactgraphqlacademy React Native Workshop__ | 11/04/2019
+- [JavaScript London](https://www.meetup.com/JavaScript-London/) (London, UK) | __React Router__ | 23/01/2019
+- [Rails Girls](https://railsgirls.london/) (London, UK) | __Automation for H4CK3RS__ | 01/12/2018 | [slides](http://bit.ly/automation-part1)
+- [Freeformers](https://freeformers.com/) (London, UK) | __Automation for H4CK3RS__ | 28/09/2018 | [slides](http://bit.ly/automation-part1)
+- [Take Off Conf](http://takeoffconf.com/) (Lille, France) | __Productivity and automation for H4CK3RS__ | 07/06/2018 | [slides](http://bit.ly/automation-hacker) [video](https://www.youtube.com/watch?v=7_CAqtqEaeo)
+- [Smart Pension](https://autoenrolment.co.uk/) (London, UK) | __Pray for bower _or_ state of art of package manager in JavaScript__ | December 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
+- [Comet](https://www.comet.co/) (Paris, France) | __How a growth hacking mindset and automation tools can benefit your company culture__ | September 2017 | [slides](https://www.slideshare.net/yoann_comet/how-a-growth-hacking-mindset-and-automation-tools-can-benefit-your-company-culture)
+- [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | __How to love / hate / use the asset pipeline in Ruby on Rails__ | April 2017 [slides](https://courses.davidl.fr/presentations/sprockets/)
+- Efficom (Lille, France) | __Workshop Chatbot__ | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
+- [FE Web](https://www.feweb.be/) (Brussels, Belgium) | __Debug your design —like a boss__ | March 2017 | [slides](http://courses.davidl.fr/presentations/devtools/)
+- Efficom (Lille, France) | __Workshop build your first leadmachine for automated funnels__ | 2017 [slides](https://courses.davidl.fr/presentations/robotsinmarch/03-chatbot.html)
+- [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | __Pray for bower _or_ state of art of package manager in JavaScript__ | February 2017 | [slides](http://courses.davidl.fr/presentations/yarn/)
+- [Le Wagon](http://lewagon.com/) (Brussels, Belgium) | __Ruby on Rails 9-week bootcamp front-end teacher__ | 2016-2017
+- [Agile Tour](http://2017.agiletour-lille.org/) (Lille, France) | __How to hack your company & succeed your Slack onboarding__ | October 2016
+- [Ruby Nord](http://ruby-nord.org/en/) (Lille, France) | __Rails mentor__ | 2015
+- [RubycampBE](http://rubycamp.rubybelgium.be/) (Belgium) | __Craft everything with Middleman__ | 2015 | [slides](http://courses.davidl.fr/presentations/middleman/)
+- [ChtiJS](http://chtijs.francejs.org/) (Lille, France) | __Pokémon breakpoint : Responsive design, CSS & JavaScript__ | 2013 | [slides](http://flexbox.github.io/pokemon-breakpoint-pres/#/)
 
 ## Current Active Topics
 
@@ -80,7 +80,7 @@ You may ask yourself: what kind of tools should I use to write a book ?
 You can start with a simple document on a text editor... but you will miss the most important part: distribution.
 During this talk you will learn how to create, automate and distribute your first book as a indie hacker.
 
-### Your freelancing on autopilot with Airtable 🆕
+### Your freelancing on autopilot with airtable 🆕
 
 One of my biggest concerns as a freelance is finding new clients. I am a solo entrepreneur. If I am not looking for new job opportunities every week, I am in a risky position.
 One day —for a random reason— I can quickly lose all my clients. Literally that's what happened 2 weeks ago, with something that no one could have predicted: a global world pandemic.
