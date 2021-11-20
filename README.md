@@ -21,6 +21,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
+- [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
 
 ## Previous Talks and Workshops
