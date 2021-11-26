@@ -21,8 +21,10 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 ## Upcoming Talks and Workshops
 
-- [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
+- [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 06/12/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 31/01/2022 | [curriculum](https://davidl.fr/workshop)
 
 ## Previous Talks and Workshops
 
