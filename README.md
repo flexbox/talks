@@ -23,7 +23,6 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
 - [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
-- [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 06/12/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 31/01/2022 | [curriculum](https://davidl.fr/workshop)
 
 ## Previous Talks and Workshops
@@ -32,6 +31,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 06/12/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive) (Remote, World) | __Twitch live show about technology, design and automation__ | 24/09/2021 | [video](https://www.youtube.com/playlist?list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
 - [Diagrams Technologies](https://diagrams-technologies.com/) (Lille, France) | __Git & Github Bootcamp__ | 02/09/2021 | [curriculum](https://github.com/flexbox/github-bootcamp)
 - [Comet](https://www.comet.co/) (Remote, world) | __Build and automate your passive income as a freelance__ | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=_9kduD2RnKo)
