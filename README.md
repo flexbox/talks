@@ -6,10 +6,9 @@ As a freelance, my mission is to **build memorable products that make users happ
 
 As a developer, I change the mindset of peoples through **automation hacks**, **minimalist design**, and **mentoring**. I do that during workshop or bootcamps when I share my knowledge.
 
-You can find more information about me and the topics I speak about here.
+You can find more information about me and the topics I speak about here. I currently talk about `Automation`, `JavaScript` and `React Native` with a focus on front-end topics.
 
-I currently talk about `Automation`, `JavaScript` and `React Native` with a focus on front-end topics.
-Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/flexbox_)!
+Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/intent/follow?screen_name=flexbox_)!
 
 ## Contents
 
@@ -22,8 +21,6 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 ## Upcoming Talks and Workshops
 
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
-- [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
-- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 31/01/2022 | [curriculum](https://davidl.fr/workshop)
 
 ## Previous Talks and Workshops
 
@@ -31,6 +28,10 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 21/02/2022 | [curriculum](https://davidl.fr/workshop)
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 07/02/2022 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 31/01/2022 | [curriculum](https://davidl.fr/workshop)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 06/12/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive) (Remote, World) | __Twitch live show about technology, design and automation__ | 24/09/2021 | [video](https://www.youtube.com/playlist?list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
 - [Diagrams Technologies](https://diagrams-technologies.com/) (Lille, France) | __Git & Github Bootcamp__ | 02/09/2021 | [curriculum](https://github.com/flexbox/github-bootcamp)
@@ -103,6 +104,10 @@ Static sites rebuild on every change, but that’s actually far less often than 
 
 Did you know that —on average— adults can focus 20 min maximum on a task? Especially when you are a developer, you need to "get on the zone" and avoid switching context at all costs. In this talk I am sharing all my productivity hacks to automate my life.
 
+### Git and GitHub 101
+
+Git is one of the most powerfull tool for people working in the web industry. The first part of this workshop will focus on the core functionality of `git` - commit, branching and merging. After we understand the basics, we are going to see how to use GitHub to ship features when we are writing code together.
+
 ## Archived Topics
 
 ### Chatbot Workshop
@@ -121,10 +126,6 @@ Looking for real life use cases for your own company? For example, if you want t
 
 Level up your front-end development skills using the Google Chrome Developer tools!
 This talk cover the tools and best practices for front-end designers, given at an exclusive Meetup at Google’s Brussels HQ.
-
-### Git and GitHub 101
-
-Git is one of the most powerfull tool for people working in the web industry. The first part of this workshop will focus on the core functionality of `git` - commit, branching and merging. After we understand the basics, we are going to see how to use GitHub to ship features when we are writing code together.
 
 ### Your Idea Here 💡
 
