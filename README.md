@@ -21,7 +21,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
 ## Upcoming Talks and Workshops
 
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
-- [Le Wagon](https://www.lewagon.com/) (London, Uk) | __Career Week__ | 22/09/2022 |
+- [Comet](https://www.comet.co/) (Lille, France) | __React Native —from Zero to Hero__ | 27/10/2022 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
 
 ## Previous Talks and Workshops
 
@@ -29,6 +29,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [Le Wagon](https://www.lewagon.com/) (London, UK) | __Career Week__ | 22/09/2022 |
 - [9am](https://9am.works) (Remote, world) | __Freelancers AMA__ | 02/09/2022 | [video](https://www.youtube.com/watch?v=h9yaV2nvNok)
 - [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 21/02/2022 | [curriculum](https://davidl.fr/workshop)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 07/02/2022 | [curriculum](https://www.humancoders.com/formations/react-native)
