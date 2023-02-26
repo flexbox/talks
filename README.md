@@ -28,20 +28,22 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette@gma
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
-- [Le Wagon](https://www.lewagon.com/) (London, UK) | __Career Week Automating Job Seeking__ | 02/12/2022 |
+- [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 13/02/2023 | [curriculum](https://www.humancoders.com/formations/react-native)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 06/02/2023 | [curriculum](https://davidl.fr/bootcamp)
+- [Le Wagon](https://www.lewagon.com/) (London, UK) | __Career Week Automating Job Seeking__ | 02/12/2022 | [article](https://davidl.fr/blog/freelance-airtable-autopilot)
 - [Comet](https://www.comet.co/) (Lille, France) | __React Native —from Zero to Hero__ | 27/10/2022 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/) [video](https://www.youtube.com/watch?v=k3cNZDgbCjs)
 - [Le Wagon](https://www.lewagon.com/) (London, UK) | __Career Week__ | 22/09/2022 |
 - [9am](https://9am.works) (Remote, world) | __Freelancers AMA__ | 02/09/2022 | [video](https://www.youtube.com/watch?v=h9yaV2nvNok)
-- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 21/02/2022 | [curriculum](https://davidl.fr/workshop)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 21/02/2022 | [curriculum](https://davidl.fr/bootcamp)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 07/02/2022 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [Amiens Tech Festival](https://amienstechfestival.fr/le-programme) (Amiens, France) | __How to write a book —like a hacker__ | 27/01/2022 | [slides](https://courses.davidl.fr/presentations/book/#/)
-- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 31/01/2022 | [curriculum](https://davidl.fr/workshop)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 31/01/2022 | [curriculum](https://davidl.fr/bootcamp)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 06/12/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive) (Remote, World) | __Twitch live show about technology, design and automation__ | 24/09/2021 | [video](https://www.youtube.com/playlist?list=PLmewDYeBL3XINJcq8pIsnM0XmDe3xyxdE)
 - [Diagrams Technologies](https://diagrams-technologies.com/) (Lille, France) | __Git & Github Bootcamp__ | 02/09/2021 | [curriculum](https://github.com/flexbox/github-bootcamp)
 - [Comet](https://www.comet.co/) (Remote, world) | __Build and automate your passive income as a freelance__ | 18/08/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=_9kduD2RnKo)
 - [Async (Web Tech Meetup)](https://www.meetup.com/Async-Web-Tech-Meetup/) (Brighton, United Kingdom) | __Design system in React Native —From Zero to Hero__ | 01/07/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/)
-- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Workshop__ | 15/03/2021 | [curriculum](https://davidl.fr/workshop)
+- [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Workshop__ | 15/03/2021 | [curriculum](https://davidl.fr/bootcamp)
 - [React & React-Native Bordeaux](https://www.meetup.com/react-react-native-bordeaux/) (Bordeaux, France) | __Design system in React Native —From Zero to Hero__ | 04/03/2021 | [slides](https://courses.davidl.fr/presentations/react-native-design-system/) [video](https://youtu.be/gkUABRFKoXs)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Paris, France) | __React Native Workshop__ | 22/02/2021 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [CodeControl](https://codecontrol.io/) (Remote, world) | __Publish your first book as a indie hacker__ | 15/01/2021 | [slides](https://courses.davidl.fr/presentations/book/#/) [video](https://www.youtube.com/watch?v=XQiJS8ksU_Y)
