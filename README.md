@@ -1,14 +1,8 @@
 # Speaking and Workshops
 
-Hi 👋, I'm a french freelance engineer working remotely.
+You can find more information about me and the topics I speak about here. Currently my speaking topics include `JavaScript`, `React Native` and `Automation`with a Indie Hacker mindset.
 
-As a freelance, my mission is to **build memorable products that make users happy**.
-
-As a developer, I change the mindset of peoples through **automation hacks**, **minimalist design**, and **mentoring**. I do that during workshop or bootcamps when I share my knowledge.
-
-You can find more information about me and the topics I speak about here. I currently talk about `Automation`, `JavaScript` and `React Native` with a focus on front-end topics.
-
-Would you like me to speak at one of your events? <a href="mailto:dleuliette@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/intent/follow?screen_name=flexbox_)!
+Would you like me to speak at one of your events? <a href="mailto:dleuliette+talk@gmail.com">Email me</a>, or [DM me on Twitter](https://twitter.com/intent/follow?screen_name=flexbox_)!
 
 ## Contents
 
