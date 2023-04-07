@@ -14,6 +14,8 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette+tal
 
 ## Upcoming Talks and Workshops
 
+- [React Native Paris](https://www.meetup.com/react-native-paris-meetup/events/292699516/) (Paris, France) | __Universal Application with React Native__ | 18/04/2023 | [slides](https://davidl.fr/courses)
+- [ChainReact](https://chainreactconf.com/) (Portland, USA) | __Coach with @jjustice Testing React Native apps__ | 17/04/2023 | [curriculum](https://chainreactconf.com/workshops)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
 
 ## Previous Talks and Workshops
