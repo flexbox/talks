@@ -14,7 +14,6 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette+tal
 
 ## Upcoming Talks and Workshops
 
-- [React Native Paris](https://www.meetup.com/react-native-paris-meetup/events/292699516/) (Paris, France) | __Universal Application with React Native__ | 18/04/2023 | [slides](https://davidl.fr/courses)
 - [ChainReact](https://chainreactconf.com/) (Portland, USA) | __Coach with @jjustice Testing React Native apps__ | 17/04/2023 | [curriculum](https://chainreactconf.com/workshops)
 - [Office Hours Des Pirates](https://www.twitch.tv/flexboxLive)
 
@@ -24,6 +23,7 @@ Would you like me to speak at one of your events? <a href="mailto:dleuliette+tal
   <img src="https://raw.githubusercontent.com/flexbox/talks/master/talks-play.png" width="100%" />
 </a>
 
+- [React Native Paris](https://www.meetup.com/react-native-paris-meetup/events/292699516/) (Paris, France) | __Universal Application with React Native__ | 18/04/2023 | [slides](https://davidl.fr/courses) [video](https://www.youtube.com/watch?v=t4rKdSjRz18)
 - [Human Coders](https://www.humancoders.com/formations/react-native) (Remote, World) | __React Native Bootcamp__ | 13/02/2023 | [curriculum](https://www.humancoders.com/formations/react-native)
 - [Institut Universitaire de Technologie](http://www.iut.univ-littoral.fr/wp/licences-pro/dim-developpement-internet-et-mobiles/) (Calais, France) | __React Native Bootcamp__ | 06/02/2023 | [curriculum](https://davidl.fr/bootcamp)
 - [Le Wagon](https://www.lewagon.com/) (London, UK) | __Career Week Automating Job Seeking__ | 02/12/2022 | [article](https://davidl.fr/blog/freelance-airtable-autopilot)
